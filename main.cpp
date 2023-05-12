@@ -142,7 +142,7 @@ int main(int argc, const char **argv)
 
   PointPillar pointpillar(Model_File, stream);
 
-  for (int i = 0; i < 10; i++)
+  for (int i = 0; i < 9; i++)
   {
     std::string dataFile = Data_File;
 
