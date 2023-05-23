@@ -38,7 +38,7 @@
 }
 
 std::string Data_File = "../data/";
-std::string Save_Dir = "../eval/kitti/object/pred_velo/";
+std::string Save_Dir = "../eval/surcouf/object/pred_velo/";
 std::string Model_File = "../model/pointpillar.onnx";
 
 void Getinfo(void)
