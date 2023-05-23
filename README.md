@@ -12,7 +12,9 @@ Overall inference has four phases:
 
 ## Model && Data
 
-The demo use the velodyne data from KITTI Dataset.
+This repo is set up for Surcouf Dataset. 
+
+The demo can use the velodyne data from KITTI Dataset.
 The onnx file can be converted from [pre-trained model](https://drive.google.com/file/d/1wMxWTpU1qUoY3DsCH31WJmvJxcjFXKlm/view) with given script under "./tool".
 
 ### Prerequisites
